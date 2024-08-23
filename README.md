@@ -23,16 +23,16 @@ For any questions or inquiries, please reach out to me via GitHub.
 
 Happy coding and learning! 🌟
 
-Projetos e Relatórios do Curso de Banco de Dados 2
+# Projetos e Relatórios do Curso de Banco de Dados 2
 Bem-vindo ao repositório Projetos e Relatórios do Curso de Banco de Dados 2! 📚💻
 
 Este repositório é dedicado a projetos e relatórios do meu Curso de Banco de Dados 2, com foco em vários aspectos de bancos de dados NoSQL e programação em Python. O objetivo deste curso é aprofundar a compreensão dos sistemas de gerenciamento de banco de dados além do SQL tradicional e explorar tecnologias NoSQL amplamente utilizadas em aplicativos modernos.
 
-📊 Projetos e Relatórios
+## 📊 Projetos e Relatórios
 Projetos em Python: Implementações e exercícios utilizando Python para interagir com bancos de dados NoSQL.
 Bancos de Dados NoSQL: Insights e relatórios sobre bancos de dados NoSQL, incluindo MongoDB, Cassandra e Redis.
 Materiais do Curso: Documentação, relatórios e anotações do curso.
-🚀 Começando
+## 🚀 Começando
 Para começar com os projetos, clone este repositório e explore o conteúdo:
 git clone https://github.com/AlexandreTommasi/DB2-Projects-Insights.git
 
