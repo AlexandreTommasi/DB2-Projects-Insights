@@ -1,0 +1,21 @@
+[
+    {
+      "aula_id": 1,
+      "professor": "Jonas",
+      "assunto": "Banco de Dados",
+      "alunos": ["Calvo", "Legolando"]
+    },
+    {
+      "aula_id": 2,
+      "professor": "Soned",
+      "assunto": "Algoritmos",
+      "alunos": ["Pepadas", "Xicoloso"]
+    },
+    {
+      "aula_id": 3,
+      "professor": "Renan",
+      "assunto": "Calculo",
+      "alunos": ["Jhoncy", "Alezin"]
+    }
+  ]
+  
